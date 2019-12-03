@@ -52,7 +52,7 @@ public class SnotIntegrationTest extends BaseUnitTest {
         assertNotNull(slackClient);
         assertNotNull(snotTemplates);
         assertEquals("https://slack.com/api/chat.postMessage", snotProperties.getSlackAppUrl());
-        assertEquals("xoxp-86879456164-365856799362-820573244391-76b96d09dcc44398c9d772ebb3e82400",
+        assertEquals("xoxp-86879456164-365856799362-860495109927-cdbb52a9b5c22b8ed43b13fd88cdc38f",
                 snotProperties.getSlackAppOauthToken());
         assertEquals("https://sherlock-be-blue.qa.api.intuit.com/v2/api-docs", snotProperties.getAppLink());
         assertEquals("dev", snotProperties.getEnvironment());
