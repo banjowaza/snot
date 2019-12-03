@@ -3,7 +3,7 @@
 
 # Javadoc
 
-https://github.intuit.com/pages/secfraud-shared/snot/
+https://github.com/banjowaza/snot/tree/master/docs
 
 # Quickstart
 Add the following dependency to your pom.xml file:
