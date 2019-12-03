@@ -1,0 +1,14 @@
+{
+  "fallback": "",
+  "color": "",
+  "title": "Inspect",
+  "mrkdwn_in": [
+    "text",
+    "pretext"
+  ],
+  "pretext": "",
+  "text": "",
+  "footer": "",
+  "author_name":"",
+  "author_link":""
+}

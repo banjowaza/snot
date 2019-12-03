@@ -1,0 +1,14 @@
+{
+  "fallback": "",
+  "title": "Exception Occurred",
+  "color": "",
+  "mrkdwn_in": [
+    "text",
+    "pretext"
+  ],
+  "pretext": "",
+  "text": "",
+  "footer": "",
+  "author_name":"",
+  "author_link":""
+}
