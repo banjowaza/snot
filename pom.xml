@@ -2,8 +2,23 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.banjowaza</groupId>
     <artifactId>snot</artifactId>
-    <version>1.0.2-SNAPSHOT</version>
+    <version>1.0.1-SNAPSHOT</version>
     <name>SNOT</name>
+    <description>
+    SNOT Slack Notification is a highly configurable Slack notification library that combines annotations
+    and filters to send Slack messages using default or custom message templates ([Slack Template Builder]
+    (https://api.slack.com/block-kit)). Annotations can be at application or method levels and various
+    strategies can be used to retrieve data from application or functions to build a context and 
+    provide to a template to generate a Slack notification.
+    </description>
+    <url>https://github.com/banjowaza/snot</url>
+    <licenses>
+        <license>
+            <name>SNOT</name>
+            <url>https://github.com/banjowaza/snot/blob/master/LICENSE.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
 
     <properties>
         <spring.version>5.1.8.RELEASE</spring.version>
