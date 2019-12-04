@@ -25,6 +25,7 @@ public @interface SnotGot {
     /**
      * a valid spring property.  The value will be used in lieu of value() 
      * if found to be not null and not empty
+     * @return the property value
      */
     String property() default "";
 

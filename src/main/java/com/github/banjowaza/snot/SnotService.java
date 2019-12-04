@@ -59,12 +59,13 @@ public class SnotService {
     /**
      * sends a SnotShot message to SlackClient
      * 
-     * @param message
+     * @param message the SnotShot message
      * @param status
      *            the Slack status @see SnotService#COLOR
      * @param targets
      *            optional list of target channel or users to send messages to. If not provided, default targets are
      *            used @see SnotProperties#slackDefaultTargets
+     * @param tissue the template
      * @return true if messages are sent successfully to all targets, false if not
      * @throws SnotException
      *             if no targets are provided or defined in defaults @see SnotProperties#slackDefaultTargets

@@ -32,8 +32,8 @@ public class SlackClient {
 
     /**
      * sends the request to Slack
-     * @param request
-     * @return
+     * @param request the SnotRocket
+     * @return true if successfully sent, false if not
      */
     public boolean postSlackMessage(SnotRocket request) {
         HttpHeaders headers = new HttpHeaders();
