@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.banjowaza</groupId>
     <artifactId>snot</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3-SNAPSHOT</version>
     <name>SNOT</name>
     <description>
     SNOT Slack Notification is a highly configurable Slack notification library that combines annotations
@@ -375,7 +375,7 @@
     <scm>
         <connection>scm:git:https://git@github.com:banjowaza/snot.git</connection>
         <url>https://git@github.com:banjowaza/snot.git</url>
-        <tag>snot-1.0.2</tag>
+        <tag>HEAD</tag>
     </scm>
 
    <distributionManagement>
