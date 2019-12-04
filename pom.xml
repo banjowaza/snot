@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.banjowaza</groupId>
     <artifactId>snot</artifactId>
-    <version>1.0.01-SNAPSHOT</version>
+    <version>1.0.01</version>
     <name>SNOT</name>
 
     <properties>
@@ -340,7 +340,7 @@
     <scm>
         <connection>scm:git:https://git@github.com:banjowaza/snot.git</connection>
         <url>https://git@github.com:banjowaza/snot.git</url>
-        <tag>HEAD</tag>
+        <tag>snot-1.0.01</tag>
     </scm>
 
    <distributionManagement>
