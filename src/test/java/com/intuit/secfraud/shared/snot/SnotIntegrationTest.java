@@ -52,8 +52,7 @@ public class SnotIntegrationTest extends BaseUnitTest {
         assertNotNull(slackClient);
         assertNotNull(snotTemplates);
         assertEquals("https://slack.com/api/chat.postMessage", snotProperties.getSlackAppUrl());
-        assertEquals("your oath token goes here",
-                snotProperties.getSlackAppOauthToken());
+        //assertEquals("your oath token goes here",snotProperties.getSlackAppOauthToken());
         assertEquals("https://developer.github.com/v3/", snotProperties.getAppLink());
         assertEquals("dev", snotProperties.getEnvironment());
         assertEquals("NARC", snotProperties.getAppName());
