@@ -48,7 +48,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <spring.boot.version>2.1.6.RELEASE</spring.boot.version>
-        <jackson-databind.version>2.10.0</jackson-databind.version>
+        <jackson-databind.version>2.12.6.1</jackson-databind.version>
         <guava.version>28.1-jre</guava.version>
         <junit-platform.version>1.2.0</junit-platform.version>
         <junit-jupiter.version>5.4.2</junit-jupiter.version>
